@@ -1,4 +1,4 @@
-# https-www.linkedin.com-in-muhammad-zaid-42491128b-
+MuhammadZaidKamran
 
  <h1 align="center">Hi 👋, I'm Muhammad Zaid</h1>
 
