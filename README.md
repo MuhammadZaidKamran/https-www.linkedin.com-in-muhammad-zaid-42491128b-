@@ -1,4 +1,3 @@
-MuhammadZaidKamran
 
  <h1 align="center">Hi 👋, I'm Muhammad Zaid</h1>
 
