@@ -13,6 +13,9 @@
   <a href="https://github.com/MuhammadZaidKamran">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/muhammad-zaid-42491128b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools:
